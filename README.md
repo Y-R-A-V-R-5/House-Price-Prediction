@@ -43,9 +43,6 @@ This project aims to predict **house prices** using **Machine Learning algorithm
 - **Neighborhood** has a strong impact on pricing trends  
 - **Gradient Boosting** provides the best performance among non-linear models  
 
-
-```
-
 ### 💬 Connect with Me  
 - **LinkedIn:** [Adithya Vardhan Reddy](https://www.linkedin.com/in/yravr/)  
 - **GitHub:** [Project Repository](https://github.com/Y-R-A-V-R-5/The-Data-Scientist-Notebook)  
